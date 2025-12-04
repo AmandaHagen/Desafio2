@@ -1,0 +1,22 @@
+/* Cabecalho */
+.cabecalho {
+  padding: 0.5em;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.menu-lista {
+  display: flex;
+  gap: 1em;
+  font-size: 0.7em;
+  padding: 1em;
+  color: var(--cor-preto);
+}
+
+.menu__cabecalho-link {
+  color: var(--cor-preto);
+}

@@ -1,0 +1,9 @@
+.texto {
+  background-color: var(--cor-branca);
+  text-align: center;
+  font-size: 0.9em;
+  padding: 1em;
+  background-color: var(--cor-branca);
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

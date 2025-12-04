@@ -1,0 +1,17 @@
+h1 {
+  font-family: var(--fonte-secundaria);
+  font-size: 3em;
+  color: var(--cor-branca);
+  text-align: center;
+}
+
+/* Banner */
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 150px;
+  background-color: var(--cinza);
+  border-radius: 5px;
+  width: 100%;
+}
